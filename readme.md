@@ -1,6 +1,6 @@
-# electV
+# VAS Portal
 
-Create and manage electronic vouchers and coupons
+Create and manage a Value Added Services Portal that acts as an aggregator for services
 
 ## Getting Started
 
